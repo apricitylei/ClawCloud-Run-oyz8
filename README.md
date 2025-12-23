@@ -1,6 +1,6 @@
 # ClawCloud 自动登录保活
 
-## ⭐ Star 星星走起 动动发财手点点 ⭐
+## ⭐ Star 星星走起 动动发财手点点 ⭐ law.Cloud官网(GitHub注册送5美元地址)：[run.claw.cloud](https://console.run.claw.cloud/signin?link=M9P7GXP3M3W5)
 
 > 自动登录 ClawCloud，保持账户活跃，支持设备验证 + 两步验证
 
@@ -148,6 +148,7 @@ MIT License
 ---
 
 ## 🤝 贡献
+[axibayuit-a11y](https://github.com/axibayuit-a11y)更新优化，支持了2fa验证码输入，避免需要手机端绑定验证，验证方式
 
 欢迎提交 Issue 和 Pull Request！
 
